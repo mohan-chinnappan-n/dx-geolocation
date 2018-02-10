@@ -3,6 +3,8 @@
 [App Development with Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_app_dev/units/sfdx_app_dev_setup_dx])
 
 ```bash
+# SFDX commands
+
 $ sfdx force:doc:commands:list
 === Commands
   force:alias:list                   # list username aliases for the Salesforce CLI
@@ -105,7 +107,7 @@ $ sfdx force:doc:commands:list
   force:user:list                    # lists all users of a scratch org
   force:user:password:generate       # generate a password for scratch org users
   force:user:permset:assign          # assign a permission set to one or more users of an org
-  
+
   force:visualforce:component:create # create a Visualforce component
   force:visualforce:page:create      # create a Visualforce page
 
